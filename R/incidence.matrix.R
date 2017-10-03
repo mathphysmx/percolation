@@ -16,6 +16,7 @@
 #' in any given entry indicates that the fractures corresponding to the entry's indices
 #' intersect.
 #' @export
+#' @author Daniella Ayala (\email{daniellaayala@ciencias.unam.mx}) and Francisco Mendoza-Torres (\email{mentofran@@gmail.com})
 #'
 #' @examples
 #' dfn <- data.frame(x0=c(0,2,3,1),

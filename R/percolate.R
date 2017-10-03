@@ -13,6 +13,7 @@
 #' c connectivity data.
 #' g a nrow(x)-dimensional integer vector with the clusters/groups to which line segment belongs to.
 #' @importFrom "igraph" "graph.adjacency","clusters"
+#' @author Daniella Ayala (\email{daniellaayala@ciencias.unam.mx}) and Francisco Mendoza-Torres (\email{mentofran@@gmail.com})
 #' @export
 #'
 #' @examples

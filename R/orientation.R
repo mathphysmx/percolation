@@ -14,6 +14,7 @@
 #'
 #' @return Eihter 1 (positive orientation) or -1 (negative orientation).
 #' @export
+#' @author Daniella Ayala (\email{daniellaayala@ciencias.unam.mx}) and Francisco Mendoza-Torres (\email{mentofran@@gmail.com})
 #'
 #' @examples
 #' orientation(p=c(0,0), q=c(-1,0), r=c(0,1))

@@ -7,6 +7,7 @@
 #'
 #' @return List with vectors \code{wm}  and \code{wM} with values where the input touches the boundary.
 #' @export
+#' @author Daniella Ayala (\email{daniellaayala@ciencias.unam.mx}) and Francisco Mendoza-Torres (\email{mentofran@@gmail.com})
 #'
 #' @examples
 #' n <- 10; xl <- -0.3; xr <- 1.2
@@ -50,9 +51,3 @@ touchBoundary <- function(w0, w1, lims=0:1){
 	ID <- 1:length(w0)
   return(list(wm = ID[lower],wM = ID[upper]))
 }
-
-# library(intervals)
-# yto <- Intervals(0, type = 'R')
-# yfrom <- Intervals(fixIntervals(endpts$x0, endpts$x1), type = 'R')
-# le <- interval_overlap(yfrom, yto, check_valid = TRUE)
-

@@ -8,6 +8,7 @@
 #'
 #' @return A logical vector of length equals to the number of clusters. Each component answering the question: There is a connected path from \code{lims[1]} to \code{lims[2]}?
 #' @export
+#' @author Daniella Ayala (\email{daniellaayala@ciencias.unam.mx}) and Francisco Mendoza-Torres (\email{mentofran@@gmail.com})
 #' @examples
 #' n <- 6; xl <- -0.3; xr <- 1.2
 #' set.seed(123) #9

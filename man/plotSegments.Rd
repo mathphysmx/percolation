@@ -116,3 +116,6 @@ plotSegments(
 points.default(G1$x0,G1$y0, col="blue", cex=2) # ploting end points of group 1 (G1)
 
 }
+\author{
+Francisco Mendoza-Torres (\email{mentofran@gmail.com})
+}

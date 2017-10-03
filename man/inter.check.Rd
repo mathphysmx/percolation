@@ -27,3 +27,6 @@ of the fractures which correspond to the row they occupy in the endpoints matrix
 well as the matrix itself. It doesn't consider cases of colinearity, since given the
 measures defined the probability of this eventuality is zero.
 }
+\author{
+Daniella Ayala (\email{daniellaayala@ciencias.unam.mx}) and Francisco Mendoza-Torres (\email{mentofran@gmail.com})
+}

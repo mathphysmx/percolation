@@ -23,3 +23,6 @@ xu <- c( 1,   1, -2, -3)
 fixIntervals(xl, xu)
 
 }
+\author{
+Francisco Mendoza-Torres (\email{mentofran@gmail.com})
+}

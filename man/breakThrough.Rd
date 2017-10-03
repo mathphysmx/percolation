@@ -34,3 +34,6 @@ library(igraph)
 eAdjClust <- clusters(graph.adjacency(incidence.matrix(endpts)))
 breakThrough(bi=te, lims=0:1, clust = eAdjClust)
 }
+\author{
+Daniella Ayala (\email{daniellaayala@ciencias.unam.mx}) and Francisco Mendoza-Torres (\email{mentofran@gmail.com})
+}

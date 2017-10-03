@@ -16,7 +16,7 @@
 #'
 #' @return the results.
 #' @export
-#'
+#' @author Daniella Ayala (\email{daniellaayala@ciencias.unam.mx}) and Francisco Mendoza-Torres (\email{mentofran@@gmail.com})
 inter.check<-function(a,b,m){
 
   c1<-as.vector(m[a,])

@@ -40,3 +40,6 @@ segments(x0= x[selectCluster,1], y0=x[selectCluster,2],
         x1= x[selectCluster,3], y1=x[selectCluster,4],
         col = "green")
 }
+\author{
+Daniella Ayala (\email{daniellaayala@ciencias.unam.mx}) and Francisco Mendoza-Torres (\email{mentofran@gmail.com})
+}

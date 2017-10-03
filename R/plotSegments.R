@@ -15,6 +15,7 @@
 #' @importFrom "graphics" "par","segments","polygon","plot.default"
 #' @importFrom "spatstat" "is.owin","plot.owin"
 #' @return a plot.
+#' @author Francisco Mendoza-Torres (\email{mentofran@@gmail.com})
 #' @export
 #'
 #' @details

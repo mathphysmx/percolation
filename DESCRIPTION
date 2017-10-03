@@ -1,8 +1,10 @@
 Package: percolation
 Type: Package
-Title: Continoum percolation of Poisson sticks 
+Title: Continuum percolation of Poisson sticks 
 Version: 0.1.0
-Author: Daniella
+Authors@R: c(
+    person("Daniella", "Ayala", email = "daniellaayala@ciencias.unam.mx",             role = "aut"),
+    person("Francisco",            "Mendoza-Torres", email = "mentofran@gmail.com", role = c("aut", "cre")))
 Maintainer: Francisco Mendoza Torres <mentofran@gmail.com>
 Description: Computes the percolating cluster (minimum spanning tree) of a set of line segments.
 License: MIT + file LICENSE

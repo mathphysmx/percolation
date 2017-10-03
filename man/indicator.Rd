@@ -36,3 +36,6 @@ xl <- c(-1, 0.3, -4)
 xu <- c( 1,   1, -2)
 indicator(0, xl, xu)
 }
+\author{
+Francisco Mendoza-Torres (\email{mentofran@gmail.com})
+}

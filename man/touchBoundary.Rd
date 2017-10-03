@@ -49,3 +49,6 @@ segments(endpts$x0[tey$wM], endpts$y0[tey$wM],
 endpts$x1[tey$wM], endpts$y1[tey$wM],
 col = 'red', lwd = 3)
 }
+\author{
+Daniella Ayala (\email{daniellaayala@ciencias.unam.mx}) and Francisco Mendoza-Torres (\email{mentofran@gmail.com})
+}

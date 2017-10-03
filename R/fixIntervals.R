@@ -7,6 +7,7 @@
 #'
 #' @return A data.frame with columns \code{xl} and \code{xu}, the lower and upper values. Each row is sorted increasingly.
 #' @export
+#' @author Francisco Mendoza-Torres (\email{mentofran@@gmail.com})
 #'
 #' @examples
 #' xl <- c(-1, 0.3, -4,  2)

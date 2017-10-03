@@ -10,6 +10,7 @@
 #'
 #' @return a logical vector with \link[base]{TRUE} when \code{x[i]} is in the interval given by the parameters of this function. Logical values were used for memory efficiency when large scale usage of this function.
 #' @export
+#' @author Francisco Mendoza-Torres (\email{mentofran@@gmail.com})
 #'
 #' @examples
 #' xe <- c(-Inf, -3, 2, 6, Inf)

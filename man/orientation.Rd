@@ -29,3 +29,6 @@ is certainly zero.
 orientation(p=c(0,0), q=c(-1,0), r=c(0,1))
 orientation(p=c(0,0), q=c( 1,0), r=c(0,1))
 }
+\author{
+Daniella Ayala (\email{daniellaayala@ciencias.unam.mx}) and Francisco Mendoza-Torres (\email{mentofran@gmail.com})
+}

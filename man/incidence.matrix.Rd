@@ -34,3 +34,6 @@ plotSegments(dfn)
 text(dfn[, 1:2], labels=1:4, pos = 2)
 incidence.matrix(dfn)
 }
+\author{
+Daniella Ayala (\email{daniellaayala@ciencias.unam.mx}) and Francisco Mendoza-Torres (\email{mentofran@gmail.com})
+}
