@@ -1,0 +1,14 @@
+Package: percolation
+Type: Package
+Title: Continoum percolation of Poisson sticks 
+Version: 0.1.0
+Author: Daniella
+Maintainer: Francisco Mendoza Torres <mentofran@gmail.com>
+Description: Computes the percolating cluster (minimum spanning tree) of a set of line segments.
+License: MIT + file LICENSE
+LazyData: TRUE
+RoxygenNote: 6.0.1
+Depends:
+    R (>= 3.2)
+Imports: igraph,
+    spatstat
