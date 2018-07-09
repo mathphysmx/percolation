@@ -28,7 +28,7 @@
 # answer:
 #http://stackoverflow.com/questions/20096514/indicator-function-in-r
 #http://stackoverflow.com/questions/22514243/writing-an-indicator-function-in-r
-indicator <- function(x, min, max,
+indicator <- function(x, min = -Inf, max = Inf,
 		      liq = ">=", riq = "<="){
 	# (x > min)&(x < min)
 	ind <- (get(liq)(x, min) & get(riq)(x, max))
