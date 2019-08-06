@@ -1,0 +1,10 @@
+package:
+     name: percolation
+     version: "0.0.1"
+
+source:
+  git_url: https://github.com/mathphysmx/percolation
+
+requirements:
+     run:
+    - r
