@@ -4,8 +4,8 @@
 \alias{plotSegments}
 \title{plot (families of) line segments.}
 \usage{
-plotSegments(segment, segPar = list(col = par("fg"), lty = par("lty"), lwd =
-  par("lwd")), add = FALSE, win = NULL, wincol = par("fg"),
+plotSegments(segment, segPar = list(col = par("fg"), lty = par("lty"),
+  lwd = par("lwd")), add = FALSE, win = NULL, wincol = par("fg"),
   winlty = par("lty"), ...)
 }
 \arguments{
