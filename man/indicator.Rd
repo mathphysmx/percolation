@@ -4,7 +4,7 @@
 \alias{indicator}
 \title{indicator function of an interval in the real line}
 \usage{
-indicator(x, min, max, liq = ">=", riq = "<=")
+indicator(x, min = -Inf, max = Inf, liq = ">=", riq = "<=")
 }
 \arguments{
 \item{x}{numeric vector of values to be tested.}
