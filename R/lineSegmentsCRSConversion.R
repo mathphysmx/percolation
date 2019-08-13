@@ -26,7 +26,7 @@
 #' lineSegmentsCRSConversion(x = xe)
 lineSegmentsCRSConversion <- function(x){
   
-  # From geographic to mathemical coordinate system
+  # From geographic to mathematical coordinate system
   a_rad <- conversion.circular(x = x$a, type = "angles",
                                        units = "radians", modulo = "pi",
                                        zero = 0, rotation = "counter")
